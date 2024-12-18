@@ -1,28 +1,29 @@
 {
   "name": "SideStore Offical",
   "identifier": "com.SideStore.SideStore",
-  "sourceURL": "https://apps.sidestore.io",
+  "sourceURL": "https://sidestore.io/apps-v2.json",
   "apps": [
     {
       "name": "SideStore",
       "bundleIdentifier": "com.SideStore.SideStore",
       "developerName": "SideStore Team",
-      "version": "0.5.8",
+      "version": "0.6.0",
       "versionDate": "2024-9-07T18:30:00Z",
-      "versionDescription": "Ah, September! You are a doorway to the season that awakens another sidestore update! We have been very busy with doing quality of life changes and fixing bugs everyone’s been having. \n\n\n What's Changed: \n\n - UI Improvements for the Anisette Servers View. by @0-Blu in #672 \n\n - Added more feedback options. by @0-Blu in #673 \n\n - Fix SideJITServer Support for iOS 17+ by @stossy11 in #674 \n\n - Makes revoking optional by @junepark678 in #675 \n\n -  Better pairing file info by @bogotesr in #676  \n\n -  Selective app extension removal by @junepark678 in #677 \n\n -  legal: developer's certificate of origin 1.1 by @polymo1 in #686 \n\n Thanks to all of the community’s support to keep this project alive and motivated. We have more planned ahead and are doing our best to keep up with updates to make it a seamless/stress free experience. Stay tuned to our progress on future endeavors for SideStore on our discord! \n\n Discord: https://discord.gg/sidestore-949183273383395328",
+      "versionDescription": "December it is, so prepare for next release! Stay tuned to our progress on future endeavors for SideStore on our discord! \n\n Discord: https://discord.gg/sidestore-949183273383395328",
       "beta": true,
-      "size": 9300000,
+      "commitID": "98bd570",
+      "size": 15300000,
       "localizedDescription": "SideStore is an alternative app store for non-jailbroken devices. \n\nSideStore allows you to sideload other .ipa files and apps from the Files app or via the SideStore Library",
-      "iconURL": "https://apps.sidestore.io/apps/sidestore/v0.1.1/icon.png",
+      "iconURL": "https://sidestore.io/apps-v2.json/apps/sidestore/v0.6.0/icon.png",
       "tintColor": "A405FA",
-      "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.8/SideStore.ipa",
+      "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
       "screenshotURLs": [
-        "https://apps.sidestore.io/apps/sidestore/v0.1.1/browse-dark.png",
-        "https://apps.sidestore.io/apps/sidestore/v0.1.1/apps-dark.png",
-        "https://apps.sidestore.io/apps/sidestore/v0.1.1/news-dark.png",
-        "https://apps.sidestore.io/apps/sidestore/v0.1.1/browse-light.png",
-        "https://apps.sidestore.io/apps/sidestore/v0.1.1/apps-light.png",
-        "https://apps.sidestore.io/apps/sidestore/v0.1.1/news-light.png"
+        "https://sidestore.io/apps-v2.json/apps/sidestore/v0.6.0/browse-dark.png",
+        "https://sidestore.io/apps-v2.json/apps/sidestore/v0.6.0/apps-dark.png",
+        "https://sidestore.io/apps-v2.json/apps/sidestore/v0.6.0/news-dark.png",
+        "https://sidestore.io/apps-v2.json/apps/sidestore/v0.6.0/browse-light.png",
+        "https://sidestore.io/apps-v2.json/apps/sidestore/v0.6.0/apps-light.png",
+        "https://sidestore.io/apps-v2.json/apps/sidestore/v0.6.0/news-light.png"
       ],
       "versions": [
         {
@@ -31,7 +32,6 @@
           "localizedDescription": "Ah, September! You are a doorway to the season that awakens another sidestore update! We have been very busy with doing quality of life changes and fixing bugs everyone’s been having. \n\n\n What's Changed: \n\n - UI Improvements for the Anisette Servers View. by @0-Blu in #672 \n\n - Added more feedback options. by @0-Blu in #673 \n\n - Fix SideJITServer Support for iOS 17+ by @stossy11 in #674 \n\n - Makes revoking optional by @junepark678 in #675 \n\n -  Better pairing file info by @bogotesr in #676  \n\n -  Selective app extension removal by @junepark678 in #677 \n\n -  legal: developer's certificate of origin 1.1 by @polymo1 in #686 \n\n Thanks to all of the community’s support to keep this project alive and motivated. We have more planned ahead and are doing our best to keep up with updates to make it a seamless/stress free experience. Stay tuned to our progress on future endeavors for SideStore on our discord! \n\n Discord: https://discord.gg/sidestore-949183273383395328",
           "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.8/SideStore.ipa",
           "size": 9300000
-          
         },
         {
           "version": "0.5.7",
