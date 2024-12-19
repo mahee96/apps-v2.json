@@ -8,12 +8,12 @@
       "bundleIdentifier": "com.SideStore.SideStore",
       "developerName": "SideStore Team",
       "version": "0.6.0",
-      "versionDate": "2024-12-19T08:44:16Z",
+      "versionDate": "2024-12-19T23:03:47Z",
       "versionDescription": "December it is, so prepare for next release! Stay tuned to our progress on future endeavors for SideStore on our discord! \n\n Discord: https://discord.gg/sidestore-949183273383395328",
       "beta": true,
-      "commitID": "080e168",
-      "size": 22147010,
-      "localizedDescription": "This is alpha release for revision: 080e168c37c49729ea7966132f9d61dcb88eae9d",
+      "commitID": "602c0b2",
+      "size": 22147004,
+      "localizedDescription": "This is alpha release for revision: 602c0b271241f2e12a625708fc43b82943c13860",
       "iconURL": "https://sidestore.io/apps-v2.json/apps/sidestore/v0.6.0/icon.png",
       "tintColor": "A405FA",
       "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
@@ -28,13 +28,13 @@
       "versions": [
         {
           "version": "0.6.0",
-          "date": "2024-12-19T08:44:16Z",
-          "localizedDescription": "This is alpha release for revision: 080e168c37c49729ea7966132f9d61dcb88eae9d",
+          "date": "2024-12-19T23:03:47Z",
+          "localizedDescription": "This is alpha release for revision: 602c0b271241f2e12a625708fc43b82943c13860",
           "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
           "beta": true,
-          "commitID": "080e168",
-          "size": 22147010,
-          "sha256": "13bbde4fac31ed8ecf98cc8039e11bb02fea7a6ed8001c941a34a305cae3f336"
+          "commitID": "602c0b2",
+          "size": 22147004,
+          "sha256": "c0dce4e2b604cd4ef60bedae6f30c5972b61bebd1087b262cbdcd08ce54247c2"
         },
         {
           "version": "0.5.8",
@@ -110,7 +110,7 @@
           "usageDescription": "Allows SideStore to run longer than 30 seconds when refreshing apps in background."
         }
       ],
-      "sha256": "13bbde4fac31ed8ecf98cc8039e11bb02fea7a6ed8001c941a34a305cae3f336"
+      "sha256": "c0dce4e2b604cd4ef60bedae6f30c5972b61bebd1087b262cbdcd08ce54247c2"
     }
   ],
   "news": [
