@@ -8,11 +8,11 @@
       "bundleIdentifier": "com.SideStore.SideStore",
       "developerName": "SideStore Team",
       "version": "0.6.0",
-      "versionDate": "2024-12-22T16:18:32Z",
+      "versionDate": "2024-12-22T19:06:42Z",
       "versionDescription": "December it is, so prepare for next release! Stay tuned to our progress on future endeavors for SideStore on our discord! \n\n Discord: https://discord.gg/sidestore-949183273383395328",
       "beta": true,
       "commitID": "e3aeea0",
-      "size": 22155363,
+      "size": 22155342,
       "localizedDescription": "This is alpha release for revision: e3aeea03a1a65dd2b16c3f75e3fdab34f42ce48d",
       "iconURL": "https://sidestore.io/apps-v2.json/apps/sidestore/v0.6.0/icon.png",
       "tintColor": "A405FA",
@@ -28,13 +28,13 @@
       "versions": [
         {
           "version": "0.6.0",
-          "date": "2024-12-22T16:18:32Z",
+          "date": "2024-12-22T19:06:42Z",
           "localizedDescription": "This is alpha release for revision: e3aeea03a1a65dd2b16c3f75e3fdab34f42ce48d",
           "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
           "beta": true,
           "commitID": "e3aeea0",
-          "size": 22155363,
-          "sha256": "e9b5dd669dc635a3cc801f2cdcd0ae3e041fe5019815cd7b4a21d4f0640e1392"
+          "size": 22155342,
+          "sha256": "98ba1fea682c983e7a1090f6a884695f46c9f12b9c00cc36c5fd31f12d68c38a"
         },
         {
           "version": "0.5.8",
@@ -110,7 +110,7 @@
           "usageDescription": "Allows SideStore to run longer than 30 seconds when refreshing apps in background."
         }
       ],
-      "sha256": "e9b5dd669dc635a3cc801f2cdcd0ae3e041fe5019815cd7b4a21d4f0640e1392"
+      "sha256": "98ba1fea682c983e7a1090f6a884695f46c9f12b9c00cc36c5fd31f12d68c38a"
     }
   ],
   "news": [
