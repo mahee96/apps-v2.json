@@ -41,7 +41,7 @@
           "localizedDescription": "Hey there side commmunity. This is a patch to improve stability of sidestore. more specifically for sources.",
           "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.10/SideStore.ipa",
           "size": 9300000
-          
+
         },
         {
           "version": "0.5.9",
@@ -63,7 +63,6 @@
           "localizedDescription": "Happy August! We have been very busy with doing quality of life changes and fixing bugs everyone’s been having. \n\n\n What's Changed: \n\n - Added Stossy11 Anisette Server by stossy11 \n\n - Added SideJITServer Support for Enabling JIT on iOS 17+ by @stossy11 \n\n - Change AltStore Expiring Soon to SideStore Expiring Soon by therealFoxster \n\n - Add Dynamic anisette intervention \n\n -  Update to altstore 1.6.3 by @junepark678  \n\n -  Include Enable JIT errors in Error Log \n\n -  Fix minimuxer status checking \n\n -  Update no wifi message to include VPN \n\n -  Opens Error Log when tapping ToastView \n\n -  Fixes Error Log context menu covering cell content \n\n -  Fixes Error Log context menu appearing while scrolling \n\n -  Fixes incorrect Search FAQ URL \n\n -  Fix Error Log showing UIAlertController on iOS 14 + \n\n -  Fix Error Log not showing UIAlertController on iOS <=13 \n\n -  Fix wrong color in AuthenticationViewController \n\n Thanks to all of the community’s support to keep this project alive and motivated. We have more planned ahead and are doing our best to keep up with updates to make it a seamless/stress free experience. Stay tuned to our progress on future endeavors for SideStore on our discord! \n\n Discord: https://discord.gg/sidestore-949183273383395328",
           "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.7/SideStore.ipa",
           "size": 9300000
-          
         },
         {
           "version": "0.5.6",
@@ -71,7 +70,6 @@
           "localizedDescription": "Happy April! This update we have some stability fixes and some improvement with sources page text. /n/n/n What has been changed: /n/n - Add description on what disable idle timeout toggle + change add to Siri text for accuracy by @Spidy123222 in #550 /n/n - Remove patreon exclusivity message for sources by @Spidy123222 in #594 /n/n Add ani.wesbryie.com to Anisette list by @WesleyBryie in #604 /n/n - Attempt to (hackily) fix embedded pairing file issues @nythepegasus",
           "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.6/SideStore.ipa",
           "size": 9195339
-          
         },
         {
           "version": "0.5.4",
@@ -79,7 +77,6 @@
           "localizedDescription": "Happy November! Since we had to do a quick fix this update. We have been very busy with doing quality of life changes and fixing bugs everyone’s been having. \n\n\n What's Changed: \n\n - Clear cache button to help with the large size issues. \n\n - Fix: Fix AppID Crash \n\n - Version in settings showing as develop \n\n - Added Timeout Feature so when you install an app. Your device will not time out and mess up the install. \n\n - Remove the heavy reliance on Info.plist for UDID. \n\n - Better formatted dates so for example instead of it being 0 days it'll say 19 hours/30 minutes. \n\n - fix: fix AltWidget AppGroup Issue. \n\n - fix: Use forked libplist",
           "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.4/SideStore.ipa",
           "size": 9195339
-          
         },
         {
           "version": "0.5.2",
@@ -87,7 +84,6 @@
           "localizedDescription": "Having a spooky October? We have too while working on stability improvements and better error logging for SideStore!\n\n# Changelog\n* Remove the buggy retry code finally (@nythepegasus)\n* Recompile and update AltBackup to make it function again (@nythepegasus)\n* Update submodule dependencies (@naturecodevoid and @nythepegasus)\n* Remove emuthreeds from trusted sources (down too frequently) (@Spidy123222)\n* Use provisioning profile details instead of guessing active app limit by @bogsen in https://github.com/SideStore/SideStore/pull/508\n**Full Changelog**: https://github.com/SideStore/SideStore/compare/0.5.1...0.5.2",
           "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.2/SideStore.ipa",
           "size": 9195339
-          
         },
         {
           "version": "0.5.1",
@@ -95,7 +91,6 @@
           "localizedDescription": "Having a good September? We have been hard at work on stability improvements and better error logging for SideStore!\n\n# Changes \n\n * The Unable to install app (aka staging error) error message has been split into explicit error messages. This should allow people who get the error to troubleshoot more easily. (Dadoum for initial implementation, naturecodevoid for fixes)\n* AltSign and all other dependencies were updated. This should help fix some issues. (spidy123222 and Joelle Lonkell for AltSign, naturecodevoided for everything else)\n* The notification and alert explaining SideStore needing to be in the background to refresh was shortened and made clearer. (spidy123322)\nFull Changelog: https://github.com/SideStore/SideStore/compare/0.5.0..0.5.1",
           "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.1/SideStore.ipa",
           "size": 9157428
-          
         },
         {
           "version": "0.5.0",
@@ -103,7 +98,6 @@
           "localizedDescription": "Happy July! We have been hard at work on stability improvements for SideStore!\n\n# Changes \n\n * [bugfix] Widget now functions properly from Github Actions builds\n* [bugfix] Installing and refreshing apps should be much more stable\n* [bugfix] Reintroduce notification when refreshing SideStore\n* [feature] Add retries to enabling JIT to make it a little more stable\n* [feature] Change the default anisette server to be https://ani.sidestore.io/ instead of the 6969 port (which no longer exists)\n* [UI] Change the Patreon screen to display our different social media accounts\n* [upstream] Fix many deprecation warnings\n* [upstream] Fix \"Open in..\" file dialog not working for SideStore\n* [upstream] Fix various UI elements to be more performant/less buggy\nFull Changelog: https://github.com/SideStore/SideStore/compare/0.4.0..0.5.0",
           "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.0/SideStore.ipa",
           "size": 9157428
-          
         },
         {
           "version": "0.4.0",
@@ -129,7 +123,8 @@
           "type": "background-audio",
           "usageDescription": "Allows SideStore to run longer than 30 seconds when refreshing apps in background."
         }
-      ]
+      ],
+      "sha256": "4d84f812fc713e9cf1aa7f47279913d34b2dc8ea15068391bed3a18fb2d3cd67"
     }
   ],
   "news": [
