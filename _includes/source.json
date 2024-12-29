@@ -27,7 +27,7 @@
       ],
       "releaseChannels": {
         "alpha": [
-          {          
+          {
             "version": "0.6.0.1",
             "date": "<__github_actions_field__>",
             "localizedDescription": "<__github_actions_field__>",
@@ -40,12 +40,12 @@
         "beta": [
           {
             "version": "0.6.0",
-            "date": "<__github_actions_field__>",
-            "localizedDescription": "<__github_actions_field__>",
+            "date": "2024-12-29T22:09:38Z",
+            "localizedDescription": "This is nightly release for revision: 3525fb4afaf6391e8643631a48429aa3a8590a64",
             "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-            "size": -1,
-            "sha256": "<__github_actions_field__>",
-            "commitID": "<__github_actions_field__>"
+            "size": 27208283,
+            "sha256": "d0558dd779a4bc6724b628273ede80c2d10d47f2fac8aa5aa764235806fc362b",
+            "commitID": "3525fb4"
           }
         ],
         "stable": [
