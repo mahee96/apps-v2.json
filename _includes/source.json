@@ -13,17 +13,17 @@
       "versionDescription": "Hey there side commmunity. This is a patch to improve stability of sidestore. more specifically for sources.",
       "size": 9300000,
       "localizedDescription": "SideStore is an alternative app store for non-jailbroken devices. \n\nSideStore allows you to sideload other .ipa files and apps from the Files app or via the SideStore Library",
-      "iconURL": "https://sidestore.io/apps-v2.json/apps/sidestore/v0.6.0/icon.png",
+      "iconURL": "https://sidestore.io/apps-v2.json/apps/sidestore/icon.png",
       "tintColor": "A405FA",
       "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.10/SideStore.ipa",
       "sha256": "4d84f812fc713e9cf1aa7f47279913d34b2dc8ea15068391bed3a18fb2d3cd67",
       "screenshotURLs": [
-        "https://sidestore.io/apps-v2.json/apps/sidestore/v0.6.0/browse-dark.png",
-        "https://sidestore.io/apps-v2.json/apps/sidestore/v0.6.0/apps-dark.png",
-        "https://sidestore.io/apps-v2.json/apps/sidestore/v0.6.0/news-dark.png",
-        "https://sidestore.io/apps-v2.json/apps/sidestore/v0.6.0/browse-light.png",
-        "https://sidestore.io/apps-v2.json/apps/sidestore/v0.6.0/apps-light.png",
-        "https://sidestore.io/apps-v2.json/apps/sidestore/v0.6.0/news-light.png"
+        "https://sidestore.io/apps-v2.json/apps/sidestore/browse-dark.png",
+        "https://sidestore.io/apps-v2.json/apps/sidestore/apps-dark.png",
+        "https://sidestore.io/apps-v2.json/apps/sidestore/news-dark.png",
+        "https://sidestore.io/apps-v2.json/apps/sidestore/browse-light.png",
+        "https://sidestore.io/apps-v2.json/apps/sidestore/apps-light.png",
+        "https://sidestore.io/apps-v2.json/apps/sidestore/news-light.png"
       ],
       "releaseChannels": {
         "alpha": [
