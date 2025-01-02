@@ -40,12 +40,12 @@
         "beta": [
           {
             "version": "0.6.0",
-            "date": "2024-12-29T22:54:45Z",
-            "localizedDescription": "This is nightly release for revision: 51f2588d3cab911cd588dd4a7e6214a417e40d17",
+            "date": "2025-01-02T14:38:38Z",
+            "localizedDescription": "This is nightly release for revision: ee03d9fa519a085cdc847ccbbdfb4114d0194a6e",
             "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
-            "size": 27208254,
-            "sha256": "9d56e3df3c5d29d08a3a4208d578dff8f312a006dd9a864697e9d2a94a3955c3",
-            "commitID": "51f2588"
+            "size": 27220840,
+            "sha256": "113066e04f17ad156719d8e72d7d548c9c4eb2d4f9f29b6a916ccf74cbb75412",
+            "commitID": "ee03d9f"
           }
         ],
         "stable": [
