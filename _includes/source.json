@@ -28,13 +28,13 @@
       "releaseChannels": {
         "alpha": [
           {
-            "version": "0.6.0.1",
-            "date": "<__github_actions_field__>",
-            "localizedDescription": "<__github_actions_field__>",
+            "version": "0.6.0",
+            "date": "2025-01-12T16:27:47Z",
+            "localizedDescription": "This is alpha release for revision: 6faddcdd97aba37bd634c8a8dd2ba2d4a59002fc",
             "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
-            "size": -1,
-            "sha256": "<__github_actions_field__>",
-            "commitID": "<__github_actions_field__>"
+            "size": 24743969,
+            "sha256": "a34d2db4d9be0355bf95020eef3f1b53d2f6ce9a6a5cf2f9782a11b16c7b8bf3",
+            "commitID": "6faddcd"
           }
         ],
         "beta": [
