@@ -50,6 +50,14 @@
         ],
         "stable": [
           {
+            "version": "0.7.0",
+            "date": "2024-12-27T01:01:50Z",
+            "localizedDescription": "Hey there side commmunity. This is a patch to improve stability of sidestore. more specifically for sources.",
+            "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.10/SideStore.ipa",
+            "size": 9300000,
+            "sha256": "4d84f812fc713e9cf1aa7f47279913d34b2dc8ea15068391bed3a18fb2d3cd67"
+          },
+          {
             "version": "0.5.10",
             "date": "2024-12-27T01:01:50Z",
             "localizedDescription": "Hey there side commmunity. This is a patch to improve stability of sidestore. more specifically for sources.",
