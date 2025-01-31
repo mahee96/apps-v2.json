@@ -28,7 +28,7 @@
       "releaseChannels": {
         "alpha": [
           {
-            "version": "0.6.1",
+            "version": "0.7.1",
             "date": "2025-01-12T16:27:47Z",
             "localizedDescription": "This is nightly release for revision: 6faddcdd97aba37bd634c8a8dd2ba2d4a59002fc",
             "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
