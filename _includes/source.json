@@ -50,7 +50,7 @@
         ],
         "stable": [
           {
-            "version": "0.7.0",
+            "version": "0.5.11",
             "date": "2024-12-27T01:01:50Z",
             "localizedDescription": "Hey there side commmunity. This is a patch to improve stability of sidestore. more specifically for sources.",
             "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.10/SideStore.ipa",
